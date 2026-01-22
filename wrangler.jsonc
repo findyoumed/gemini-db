@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "gemini-db",
+	"upload_source_maps": true,
+	"observability": {
+		"enabled": true
+	},
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "gemini-db",
+			"database_id": "862e73b2-70ef-4549-a0bc-dbe1057ed70b"
+		}
+	]
+}
